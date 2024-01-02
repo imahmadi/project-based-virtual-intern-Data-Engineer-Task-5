@@ -1,5 +1,6 @@
 # project based virtual intern : Data Engineer Bank BTPN Syariah X Rakamin Academy
 
+
 # **Project Scenario :**
 "A bank manager is expressing concern over the rising trend of customers discontinuing their credit card services. They seek assistance in profiling customers to predict those who are likely to leave their credit card services. This proactive approach will empower the company to reach out to these customers, deliver enhanced services, and positively influence their decisions."
 
@@ -11,7 +12,10 @@ In the execution of this project, there are at least four stages, namely:
 3. Insight and Visualization
 4. Conclusions and Recommendations
 
-You can also view the dashboard from [Tableau](https://public.tableau.com/views/VIXBTPNSyariah-CustomerChurnAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+___
+- You can access the virtual internship details [Here](https://www.rakamin.com/virtual-internship-experience/data-engineer-btpn-syariah)
 
-Dashboard Preview:
+- You can also view the dashboard from [Tableau](https://public.tableau.com/views/VIXBTPNSyariah-CustomerChurnAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+    Dashboard Preview:
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/Dashboard_Preview.png)
