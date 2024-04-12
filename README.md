@@ -1,4 +1,4 @@
-# project based virtual intern : Data Engineer Bank BTPN Syariah X Rakamin Academy
+# project based virtual intern : Data Engineer Task 5 Rakamin Academy
 
 
 # **Project Scenario :**
